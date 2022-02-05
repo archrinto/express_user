@@ -1,2 +1,2 @@
-# express_user
+# User Manager API
 Module for user management
